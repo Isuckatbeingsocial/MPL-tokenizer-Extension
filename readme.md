@@ -7,7 +7,8 @@ Mainly Made for MPL but can tokenize any language with similar syntax.
 This block Tokenizes any MPL code, it can also tokenize similar languages
 
 
-Using Penguinmod or Turbowarp, you can use their load extension by url using the following url.
-```
-https://raw.githubusercontent.com/Wronggames/MPL-tokenizer-Extension/main/Extension.js
-```
+# How to use
+
+Using Penguinmod or Turbowarp, you can use their load extension by file or text option.
+Download Extension.js in this repository to use the file option.
+Open Extension.js raw in this repository and copy it to use their text option.
